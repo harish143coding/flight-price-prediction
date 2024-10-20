@@ -8,6 +8,7 @@ import os
 import warnings
 warnings.filterwarnings('ignore')
 
+
 # importing the data
 df = pd.read_excel("Data_Train.xlsx")
 print("Initial few rows of the dataset: \n", df.head())
