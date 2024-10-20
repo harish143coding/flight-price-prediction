@@ -1,1 +1,1 @@
-""" This project is based on the Git Repo: https://github.com/sairasmi/flight-price-prediction """
+""" A Ref Git Repo: sairasmi/flight-price-prediction """
